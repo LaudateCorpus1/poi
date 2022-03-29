@@ -135,7 +135,7 @@ dependencies {
     testImplementation 'org.xmlunit:xmlunit-core:2.8.3'
     testImplementation 'org.reflections:reflections:0.10.2'
     testImplementation 'org.openjdk.jmh:jmh-core:1.33'
-    testImplementation 'org.openjdk.jmh:jmh-generator-annprocess:1.33'
+    testImplementation 'org.openjdk.jmh:jmh-generator-annprocess:1.35'
     testImplementation 'com.google.guava:guava:31.0.1-jre'
     testImplementation 'org.tukaani:xz:1.9'
 
