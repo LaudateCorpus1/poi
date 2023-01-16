@@ -124,7 +124,7 @@ subprojects {
         hamcrestVersion = '2.2'
         xmlbeansVersion = '5.0.3'
         batikVersion = '1.14'
-        saxonVersion = '10.6'
+        saxonVersion = '12.0'
         apiGuardianVersion = '1.1.2'
 
         JAVA9_SRC = 'src/main/java9'
